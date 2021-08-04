@@ -1,0 +1,14 @@
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiDDD.Domain.Services.deps.json
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiDDD.Domain.Services.dll
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiDDD.Domain.Services.pdb
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiDDD.Domain.Core.dll
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiDDD.Domain.dll
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiDDD.Domain.Core.pdb
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiDDD.Domain.pdb
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiDDD.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiDDD.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiDDD.Domain.Services.AssemblyInfo.cs
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiDDD.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiDDD.Domain.Services.csproj.CopyComplete
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiDDD.Domain.Services.dll
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiDDD.Domain.Services.pdb

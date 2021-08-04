@@ -1,0 +1,8 @@
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain\bin\Debug\netcoreapp3.1\RestApiDDD.Domain.deps.json
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain\bin\Debug\netcoreapp3.1\RestApiDDD.Domain.dll
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain\bin\Debug\netcoreapp3.1\RestApiDDD.Domain.pdb
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain\obj\Debug\netcoreapp3.1\RestApiDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain\obj\Debug\netcoreapp3.1\RestApiDDD.Domain.AssemblyInfo.cs
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain\obj\Debug\netcoreapp3.1\RestApiDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain\obj\Debug\netcoreapp3.1\RestApiDDD.Domain.dll
+C:\Users\lucas.batista\source\repos\RestApiDDD\RestApiDDD.Domain\obj\Debug\netcoreapp3.1\RestApiDDD.Domain.pdb
